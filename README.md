@@ -1,0 +1,1 @@
+Collected and organized a large corpus of Russian movie subtitles categorized by genre. Extracted phraseological units from a Russian dictionary and used the spaCy Russian language model to automatically detect and extract phraseological units from the subtitle corpus. 
